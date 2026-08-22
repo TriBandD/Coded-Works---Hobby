@@ -69,4 +69,4 @@ public class EpisodeGenPanel extends JPanel
 	} //end of class
 
 //The code needs to be able to pick a season number between 1 and 9
-//It also needs to be able to pick an episode number between 1 and 
+//It also needs to be able to pick an episode number between 1 and ~28
