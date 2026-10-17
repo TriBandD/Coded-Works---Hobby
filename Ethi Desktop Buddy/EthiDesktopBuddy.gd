@@ -1,4 +1,5 @@
-# All written in GDScript, in the Godot game engine 
+# All written in GDScript, in the Godot game engine. The base code is modified from Desktop Pet by Odd_Jayy (Jorvon Moss) on DigiKey: https://www.digikey.com/en/maker/projects/desktop-pet/994f9b5997fa4d6899c022c9b23724a6 .
+The rest of the code was worked out through extensive research and prior knowledge of coding in Java. 
 
 extends Node2D
 
